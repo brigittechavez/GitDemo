@@ -8,6 +8,6 @@ package model;
  *
  * @author invitado
  */
-public class Proffesor {
+public class Proffessor {
     
 }
